@@ -1,4 +1,4 @@
-# Bisection
+# Non-linear equation
 
 **개요**<br>
 * [bisection( )]()<br>
